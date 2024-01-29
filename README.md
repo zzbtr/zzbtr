@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzbtr
 - 👀 I’m interested in Community Research
-- 🌱 I’m currently learning to listen for connection
-- 💞️ I’m looking to collaborate on experimental research
+- 🌱 I’m currently learning to Listen for connection
+- 💞️ I’m looking to collaborate on Experiments, and ux design research
 - 📫 How to reach me z@littleflower.io
 
 <!---
